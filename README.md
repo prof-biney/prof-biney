@@ -23,12 +23,14 @@
 ## 🚀 **SYSTEM.OVERVIEW** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 <div align="left">
+
 ```bash
 prof_black@matrix:~$ whoami
 > Fullstack Developer | Algorithmic Trader | Linux Warrior
 > Building the future, one commit at a time...
 > Currently: [ OPTIMIZING TRADING ALGORITHMS ] [ CRAFTING WEB EXPERIENCES ]
 ```
+
 </div>
 
 <p align="center">
@@ -82,11 +84,13 @@ prof_black@matrix:~$ whoami
 
 <div align="center">
 <div align="left">
+
 ```bash
 prof_black@matrix:~$ ./connect.sh
 > Initializing secure connection...
 > Handshake complete. Ready for collaboration.
 ```
+
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
