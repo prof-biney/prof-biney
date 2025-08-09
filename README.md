@@ -76,39 +76,6 @@ prof_black@matrix:~$ whoami
 
 ---
 
-## 💻 **FEATURED.PROJECTS** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
-
-<div align="center">
-
-### 🌟 **Top Repositories**
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|-------|
-| 🚀 **[Trading Bot Alpha](https://github.com/abiney1321/trading-bot-alpha)** | Advanced MT5 trading bot with ML predictions | Python, MT5 API, TensorFlow | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
-| 🌐 **[Portfolio Dashboard](https://github.com/abiney1321/portfolio-dashboard)** | Real-time portfolio tracking web app | Next.js, TypeScript, TailwindCSS | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
-| 📊 **[Market Analyzer Pro](https://github.com/abiney1321/market-analyzer)** | Advanced market analysis with Pine Script | Pine Script, Python, MATLAB | ![Completed](https://img.shields.io/badge/COMPLETED-0080ff?style=flat-square) |
-
-</div>
-
----
-
-## 📊 **SYSTEM.STATS** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25">
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiney1321&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiney1321&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=abiney1321&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
-  
-</div>
-
----
-
 ## 🌐 **CONNECT.PROTOCOL** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
 
 <div align="center">
@@ -129,15 +96,6 @@ prof_black@matrix:~$ ./connect.sh
 ---
 
 <div align="center">
-
-## 💡 **CURRENT.STATUS** <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
-
-```
-🔥 Building next-gen trading algorithms
-🚀 Optimizing React applications for maximum performance  
-🐧 Contributing to open-source projects
-📚 Always learning, always evolving...
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;The+matrix+has+you..." alt="Footer" />
 
